@@ -1,0 +1,21 @@
+<div class="container-fluid px-4">
+      <div class="container-fluid">
+              <div class="row">
+        <div class="col-lg-6">
+          <div class="b_text">
+            <h1 class="hd1">A new model for open collaboration</h1>
+            <p class="par1">Run an organization where members get rewarded for their contributions with fractional ownership.</p>
+            <a class="btn btn_c btn_link req" href="#">Request early access</a>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="b_img">
+            <img src="images/bg.png" class="img-fluid bg">
+            <img src="images/Illustration.png" class="img-fluid ill" alt="">
+            
+          </div>
+        </div>
+      </div>
+      </div>
+
+    </div>
